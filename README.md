@@ -37,13 +37,11 @@ I used Python for data cleaning, visualisation, regression, classification, and 
 
 ## Education
 
-**Eduvos**
-
+**Eduvos**  
 BSc Honours in Information Technology - Data Science
 
 
-**Richfield Graduate Institute of Technology**
-
+**Richfield Graduate Institute of Technology**  
 BSc Information Technology
 
 ## Portfolio
